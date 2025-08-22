@@ -21,3 +21,8 @@ This project allows users to:
 - Update existing users without creating duplicates
 - Delete users from the database
 - Responsive frontend with React
+
+<img width="1864" height="822" alt="img01" src="https://github.com/user-attachments/assets/a2ce00fe-999f-4070-8841-d042f686ea79" />
+<img width="1445" height="814" alt="img02" src="https://github.com/user-attachments/assets/ec2b767a-6c5d-43fe-a826-a2d1ad715fc6" />
+<img width="974" height="612" alt="img03" src="https://github.com/user-attachments/assets/4213b908-edec-4db0-b200-6fc8e719f9e0" />
+<img width="1911" height="751" alt="img04" src="https://github.com/user-attachments/assets/03b5246b-8625-4348-8719-44cbc7ea8245" />
