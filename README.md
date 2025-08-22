@@ -1,8 +1,6 @@
 # User-details-app
 📝 User Details Form (React + Spring Boot + MySQL)
 
-
-
 A full-stack **User Management Form** application built with:
 - **Frontend**: React (with form handling and preview for file uploads)
 - **Backend**: Spring Boot (REST API with file handling)
